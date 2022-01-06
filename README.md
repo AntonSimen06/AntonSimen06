@@ -1,16 +1,23 @@
-### Hi there 👋
+## I'm Anton Simen Albino
+### An Engineering Physicist from Brazil.
 
-<!--
-**AntonSimen06/AntonSimen06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Quantum Research Scientist @ Latin American Quantum Computing Center, SENAI CIMATEC
+         Calibrate and control transmon qubits
+         Quantum Machine Learning models
+         Quantum Optimization
+         Fault-tolerant quantum algorithms
+         
+#### MSc. Machine learning and optimization with quantum processors @ Latin American Quantum Computing Center, SENAI CIMATEC
+        Quantum Natural Language Processing
+        Quantum Deep Neural Networks
+        Variational Quantum Algorithm for optimization
+        
+#### Qiskit Advocate and Certified Associate Quantum Developer @ IBM
+        Open-source contributions
+        Seminars
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/antonsimen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonsimen" height="30" width="40" /></a>
+</p>
