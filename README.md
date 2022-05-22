@@ -1,19 +1,19 @@
-## I'm Anton Simen Albino
-### An Engineering Physicist from Brazil.
+## Anton Simen Albino
+### Engineering Physicist from Brazil.
 
 #### Quantum Research Scientist @ Latin American Quantum Computing Center, SENAI CIMATEC
-         Calibrate and control transmon qubits
-         Quantum Machine Learning models
+      
+         Quantum AI Research 
          Quantum Optimization
-         Fault-tolerant quantum algorithms
-         
-#### MSc. Machine learning and optimization with quantum processors @ Latin American Quantum Computing Center, SENAI CIMATEC
-        Quantum Natural Language Processing
-        Quantum Deep Neural Networks
-        Variational Quantum Algorithm for optimization
+            
+#### MSc. Computational Modelling @ HPC Center, SENAI CIMATEC
+
+        Quantum AI & Quantum Evolutionary computation
+
         
 #### Qiskit Advocate and Certified Associate Quantum Developer @ IBM
-        Open-source contributions
+
+        Open-source projects
         Seminars
 
 
