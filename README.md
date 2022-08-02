@@ -1,5 +1,5 @@
 ## Anton Simen Albino
-### Engineering Physicist from Brazil.
+### I am an Engineering Physicist whose interests range around quantum machine learning, quantum optimization and quantum simulation.
 
 #### Quantum Research Scientist @ Latin American Quantum Computing Center, SENAI CIMATEC
       
