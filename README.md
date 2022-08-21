@@ -1,20 +1,4 @@
-## Anton Simen Albino
-### I am an Engineering Physicist whose interests range around quantum machine learning, quantum optimization and quantum simulation.
-
-#### Quantum Research Scientist @ Latin American Quantum Computing Center, SENAI CIMATEC
-      
-         Quantum AI Research 
-         Quantum Optimization
-            
-#### MSc. Computational Modelling @ HPC Center, SENAI CIMATEC
-
-        Quantum AI & Quantum Evolutionary computation
-
-        
-#### Qiskit Advocate and Certified Associate Quantum Developer @ IBM
-
-        Open-source projects
-        Seminars
+I am an Engineering Physicist whose interests range around quantum machine learning, quantum optimization and quantum simulation. My current work as well as my master's research focus on quantum machine learning models for near-term applications. I have developed work (from theory to hands-on) on quantum kernel machines, variational quantum algorithms and evolutionary quantum computing. I am also a Qiskit Advocate and Certified Associate Quantum Developer by IBM.
 
 
 <h3 align="left">Connect with me:</h3>
